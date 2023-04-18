@@ -121,7 +121,7 @@ variable "elasticsearch_download_url" {
 }
 
 variable "elasticsearch_download_version" {
-  default = "7.16.3"
+  default = "7.7.1"
 }
 
 variable "kibana_download_url" {
@@ -129,7 +129,7 @@ variable "kibana_download_url" {
 }
 
 variable "kibana_download_version" {
-  default = "7.16.3"
+  default = "7.7.1"
 }
 
 variable "backend_set_health_checker_interval_ms" {
